@@ -92,7 +92,7 @@ def search_for_updates():
                     setTitle('Mise à jour de Saturne terminée!')
                     print(f"{Fore.GREEN}Mise à jour terminée avec succès!")
                     sleep(1)
-                    os.startfile("run.bat")
+                    os.startfile("start.bat")
                     sys.exit()
                 except PermissionError as err:
                     clear()
