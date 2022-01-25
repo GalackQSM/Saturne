@@ -1,7 +1,6 @@
 <p align= center</p><a href="https://discord.gg/saturnetools" target="_blank"><img src="https://i.imgur.com/q5UIfBk.png" alt="Saturne"></a>
-<p align="center">
-[![](https://img.shields.io/discord/918257651392061500.svg?logo=discord&colorB=7289DA)](https://discord.gg/saturnetools)
-[![](https://img.shields.io/badge/paypal-donation-blue.svg)](https://paypal.me/GalackQSM?country.x=FR&locale.x=fr_FR)
+<a href="https://discord.gg/saturnetools" target="_blank"><img src="https://img.shields.io/discord/918257651392061500.svg?logo=discord&colorB=7289DA"></a>
+<a href="https://paypal.me/GalackQSM?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://img.shields.io/badge/paypal-donation-blue.svg"></a>
 <img src="https://img.shields.io/github/languages/top/GalackQSM/Saturne?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/GalackQSM/Saturne?style=flat-square" </a>
 <img src="https://img.shields.io/github/license/GalackQSM/Saturne?style=flat-square" </a>
