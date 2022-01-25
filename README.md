@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/languages/top/GalackQSM/Saturne?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/GalackQSM/Saturne?style=flat-square" </a>
 <img src="https://img.shields.io/github/license/GalackQSM/Saturne?style=flat-square" </a>
-<img src="https://img.shields.io/github/downloads/GalackQSM/Saturne/total?color=%23daff00&label=v1.0.0 Downloads&style=flat-square" </a>
+<img src="https://img.shields.io/github/downloads/GalackQSM/Saturne/total?color=%23daff00&label=Downloads&style=flat-square" </a>
 <img src="https://img.shields.io/github/stars/GalackQSM/Saturne?color=%23daff00&label=Stars&style=flat-square" </a>
 <img src="https://img.shields.io/github/forks/GalackQSM/Saturne?color=%23daff00&label=Forks&style=flat-square" </a>
 </p>
