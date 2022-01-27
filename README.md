@@ -1,5 +1,5 @@
-<p align= center</p><a href="https://discord.gg/saturnetools" target="_blank"><img src="https://i.imgur.com/q5UIfBk.png" alt="Saturne"></a>
-<a href="https://discord.gg/saturnetools" target="_blank"><img src="https://img.shields.io/discord/918257651392061500.svg?logo=discord&colorB=7289DA"></a>
+<p align= center</p><a href="https://discord.gg/french-cracking" target="_blank"><img src="https://i.imgur.com/q5UIfBk.png" alt="Saturne"></a>
+<a href="https://discord.gg/french-cracking" target="_blank"><img src="https://img.shields.io/discord/918257651392061500.svg?logo=discord&colorB=7289DA"></a>
 <a href="https://paypal.me/GalackQSM?country.x=FR&locale.x=fr_FR" target="_blank"><img src="https://img.shields.io/badge/paypal-donation-blue.svg"></a>
 <img src="https://img.shields.io/github/languages/top/GalackQSM/Saturne?style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/GalackQSM/Saturne?style=flat-square" </a>
@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://github.com/GalackQSM/Saturne#installation">Installation</a> |
 <a href="https://github.com/GalackQSM/Saturne#Important">Important</a> |
-<a href="https://discord.gg/saturnetools">Discord</a>
+<a href="https://discord.gg/french-cracking">Discord</a>
 </p>
 
 ### 🌟Comme Saturne est gratuit, les dons sont vraiment appréciables et maintiennent le développement!
